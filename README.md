@@ -7,7 +7,7 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-secproflauren@gmail.com-red?style=flat-square&logo=gmail">
 </a>
 
-I started out as a Linguistics major, mostly because I'm a fan of the wonderfully messy ways people communicate—pidgins, creoles, all the 'dirty' languages that break the rules.
+I started out as a Linguistics major, mostly because I'm a fan of the wonderfully messy ways people communicate - pidgins, creoles, all the 'dirty' languages that break the rules.
 
 Turns out, that love for finding patterns in chaos is perfect for the tech world. Deconstructing a creole language isn't all that different from parsing unstructured web data or cleaning a chaotic dataset. Both have their own weird syntax, and both are incredibly satisfying to figure out. I’m a data person at heart, but with a healthy dose of cybersecurity paranoia.
 
