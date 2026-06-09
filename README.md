@@ -4,7 +4,7 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lauren%20Williams--Riddle-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:secproflauren@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-secproflauren@gmail.com-red?style=flat-square&logo=gmail">
+  <img alt="Email" src="https://img.shields.io/badge/Email-laurenllwr@gmail.com-red?style=flat-square&logo=gmail">
 </a>
 
 I started out as a Linguistics major, mostly because I'm a fan of the wonderfully messy ways people communicate - pidgins, creoles, all the 'dirty' languages that break the rules.
