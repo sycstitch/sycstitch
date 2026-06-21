@@ -28,7 +28,7 @@ i started as a linguistics major because i'm fascinated by how people actually c
 
 ### <p>*⋆｡𖦹 ˚ 𓇼 ˚｡⋆ &emsp; specialties &emsp; ⋆｡𖦹 ˚ 𓇼 ˚｡⋆*</p>
 
-`backend & system engineering`
+`backend, data & system engineering`
 
 i love breaking things down and understanding how they work at the deepest level. there's something satisfying about tracing data to a pattern even when it seems complex at first glance. it's the same reason i love deconstructing creole syntax ♡
 
@@ -36,9 +36,9 @@ i love breaking things down and understanding how they work at the deepest level
 
 i'm build for different platforms based on how people will actually use them, mostly web and a soft spot for android. 
 
-`data engineering & nlp`
+`linguistics & nlp`
 
-building language models and tools for underrepresented linguistic communities. creating etl pipelines and systems that turn messy real-world data into insights.
+building language models and tools for underrepresented linguistic communities. soft spot for aave and carribean spanish.
 
 `ux/ui`
 
