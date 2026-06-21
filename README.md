@@ -36,13 +36,13 @@ i love breaking things down and understanding how they work at the deepest level
 
 i'm build for different platforms based on how people will actually use them, mostly web and a soft spot for android. 
 
-`ux/ui`
-
-my design philosophy is heavily intertwined with linguistics. accessibility and efficiency on the backend; cultural sensitivity and inclusive design on the frontend. i'm new to design, but the empathy and passion to learn are real. i believe good design means understanding how *different* people use things.
-
 `data engineering & nlp`
 
 building language models and tools for underrepresented linguistic communities. creating etl pipelines and systems that turn messy real-world data into insights.
+
+`ux/ui`
+
+my design philosophy is heavily intertwined with linguistics. accessibility and efficiency on the backend; cultural sensitivity and inclusive design on the frontend. i'm new to design, but the empathy and passion to learn are real. i believe good design means understanding how *different* people use things.
 
 <br>
 
