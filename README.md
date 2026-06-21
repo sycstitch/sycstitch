@@ -1,70 +1,81 @@
-### Hi there, I'm Lauren 👋
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+
+<div align="center">
+
+### eeek! i'm *lauren* (˶˃𐃷˂˶)ᶻ 𝗓 𐰁
+
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/lauren-wr">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lauren%20Williams--Riddle-blue?style=flat-square&logo=linkedin">
+  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Lauren%20Williams--Riddle-74c7ec?style=plastic&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:secproflauren@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-laurenllwr@gmail.com-red?style=flat-square&logo=gmail">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:laurenllwr@gmail.com">
+  <img alt="email" src="https://img.shields.io/badge/Email-laurenllwr@gmail.com-89dceb?style=plastic&logo=gmail&logoColor=white">
 </a>
 
-I started out as a Linguistics major, mostly because I'm a fan of the wonderfully messy ways people communicate - pidgins, creoles, all the 'dirty' languages that break the rules.
+</div>
 
-Turns out, that love for finding patterns in chaos is perfect for the tech world. Deconstructing a creole language isn't all that different from parsing unstructured web data or cleaning a chaotic dataset. Both have their own weird syntax, and both are incredibly satisfying to figure out. I’m a data person at heart, but with a healthy dose of cybersecurity paranoia.
+<br>
 
-* 🔭 **What I'm focused on**: Finding a full-time role in **Data Analysis** or **Data Engineering** where I can tackle complex, messy data. I'm also interested in security analytics roles that merge both of my passions.
-* 💬 **Ask me about**: Why data cleaning is 80% of the work and 100% of the fun, how to build a web scraper from a simple debugging session, or my latest database project.
+i started as a linguistics major because i'm fascinated by how people actually communicate - the messy, rule-breaking beauty of pidgins, creoles, and dialects. that same passion for finding patterns in complexity drives everything i do in tech.
 
----
+<br>
 
-### 🧰 My Tech Toolbox
+### <p>*⋆｡𖦹 ˚ 𓇼 ˚｡⋆ &emsp; specialties &emsp; ⋆｡𖦹 ˚ 𓇼 ˚｡⋆*</p>
 
-Here's a look at the tech I work with regularly.
+`backend & systems thinking`
 
-| Category | Technologies |
+i love breaking things down and understanding how they work at the deepest level. there's something satisfying about tracing data to a pattern even when it seems complex at first glance. it's the same reason i love deconstructing creole syntax ♡
+
+`full stack web & android development`
+
+i'm build for different platforms based on how people will actually use them, mostly web and a soft spot for android. 
+
+`ux/ui with empathy`
+
+my design philosophy is heavily intertwined with linguistics. accessibility and efficiency on the backend; cultural sensitivity and inclusive design on the frontend. i'm new to design, but the empathy and passion to learn are real. i believe good design means understanding how *different* people use things.
+
+`data engineering & nlp`
+
+building language models and tools for underrepresented linguistic communities. creating etl pipelines and systems that turn messy real-world data into insights.
+
+<br>
+
+### <p>*𓆝 𓆟 𓆞 𓆝 𓆟 &emsp; tech stack &emsp; 𓆝 𓆟 𓆞 𓆝 𓆟*</p>
+
+| category | technologies |
 | :--- | :--- |
-| **Data & Analytics** | `Python (Pandas, NumPy)` `SQL (MySQL, PostgreSQL)` `Excel` `Tableau` `Web Scraping (BeautifulSoup)` `ETL` |
-| **Cybersecurity** | `Splunk` `Wireshark` `SIEM` `Threat Intelligence (MISP)` `Digital Forensics (Autopsy, Volatility)` `Incident Response` |
-| **Languages & Systems** | `Bash` `PowerShell` `Linux (Debian)` `Windows Server` `Active Directory` `VMware` `Git` |
-| **Web & APIs** | `PHP` `JavaScript` `HTML5/CSS3` `RESTful APIs` `PDO` |
+| **web & mobile** | `javascript` `html5/css3` `react` `android (kotlin)` `firebase` `docker` `git` |
+| **backend & data** | `python (pandas, numpy)` `sql (mysql, postgresql)` `etl pipelines` `google gemini api` `mistral-7b` `rag architecture` |
+| **design & ux** | accessibility standards (wcag), cultural localization, ui/ux design thinking, empathy-driven development |
+| **infrastructure & devops** | `bash` `powershell` `linux (debian)` `aws (ec2, lambda, s3, rds)` `github actions` `ci/cd` |
+| **languages** | bilingual (english/spanish), applied nlp & linguistic analysis |
 
----
+<br>
 
-### ⭐ Featured Projects
+### <p>*°‧ 𓆝 𓆟 𓆞 ·｡ &emsp; featured projects &emsp; °‧ 𓆝 𓆟 𓆞 ·｡*</p>
 
-These are a few of my favorite projects. They're pinned below, but here's the story behind them.
+1. **[dialecto](https://github.com/sycstitch/dialecto-preview)** (in progress): a full-stack dialect-aware translation platform using firebase and google gemini api. offers linguistic variation detection and personalized language learning.
 
-1.  **[TrueCar Web Scraper](https://github.com/sycstitch/truecar-webscraper)**: It all started when my mom asked for help with a text extract error. That simple debugging session somehow spiraled into this - a full-blown web scraper to pull market data. It was the first time I tackled a problem I knew nothing about from start to finish and won. Made me think, "damn, maybe I *am* more capable than I thought."
-2.  **[La Liga Management System](https://github.com/sycstitch/la-liga-management-system)**: A high-stakes clash of titans, not just on the pitch, but in the database. This project involved building a secure management system from the ground up while running dramatic salary analytics - pitting Real Madrid's entire payroll against Barcelona's average in a battle of nested SQL subqueries.
-3.  **[Fleet SQL Analytics](https://github.com/sycstitch/taxi-fleet-sql-analytics/tree/main)**: My deep-dive into a simulated taxi company's database to figure out why things were so inefficient. I used everything from [basic queries to advanced window functions to discover that only 45% of certified drivers were actually driving](https://github.com/sycstitch/taxi-fleet-sql-analytics/blob/main/queries.md#overall-business-insights--conclusions). An operational nightmare, but a fantastic data puzzle.
-4.  (Comin Soon) **BTL1 Incident Response Write-Up**: I'm under an NDA, so I can't share the gory details of the incident. This write-up instead focuses on the emotional rollercoaster that was the exam: the 14 hours I spent fighting the mental roadblocks, the immense pressure I put myself under, and how letting go of perfectionism helped me problem solve and ultimately earn the Gold certification.
+2. **[dominican spanish ai chatbot](https://github.com/sycstitch/dominican-chatbot)** (in progress): conversational ai for learning dominican spanish, built with python, docker, and rag architecture. it's my love letter to the spanish variant i'm drawn to the most.
 
----
+3. **[truecar web scraper](https://github.com/sycstitch/truecar-webscraper)**: the project that started as a simple debugging question and became a full production scraper. first time i proved to myself i could solve hard problems.
 
-### 🏆 Certifications
+4. **[la liga management system](https://github.com/sycstitch/la-liga-management-system)**: a secure database management system with dramatic salary analytics using advanced sql subqueries.
 
-[Take a look at my Credly!](https://www.credly.com/users/lauren-williams-riddle)
+<br>
 
-| Certification | Issuing Organization | Notable Achievement |
+### <p>🪼⋆｡𖦹°🫧⋆.ೃ࿔*:･ &emsp; certifications &emsp; ⋆｡𖦹°🫧⋆.ೃ࿔*:･🪼</p>
+
+[check out my credly](https://www.credly.com/users/lauren-williams-riddle)
+
+| certification | organization | achievement |
 | :--- | :--- | :--- |
-| **Blue Team Level 1 (BTL1) Gold** | Security Blue Team | Achieved **95% score** on the 24-hour practical examination, demonstrating advanced skills in incident data analysis and correlation. |
+| **blue team level 1 (btl1) gold** | security blue team | 95% on 24-hour practical exam |
 
----
-
-### 💡 Core Competencies
-
-This is a summary of what I bring to the table, based on my project experience and training.
-
-* **Data Analysis & Business Intelligence**
-    * Developing advanced SQL queries (Window Functions, CTEs, complex JOINs) for data analysis and business intelligence reporting.
-    * Building automated ETL pipelines for web scraping, data cleaning, and validation using Python, Pandas, and BeautifulSoup.
-    * Performing statistical analysis to identify trends, optimize processes, and deliver actionable recommendations.
-
-* **Security Analytics & Incident Response**
-    * Correlating security logs and detecting anomalies with SIEM tools like Splunk.
-    * Conducting digital forensics by analyzing disk and memory images to reconstruct incident timelines.
-    * Applying threat intelligence frameworks like MITRE ATT&CK for comprehensive threat analysis.
-
-* **Systems & Infrastructure**
-    * Administering Linux (Debian) and Windows Server environments, including Active Directory and Group Policy management.
-    * Automating system tasks and file organization using advanced Bash scripting.
-    * Designing and implementing normalized relational database schemas for complex applications.
+</div>
