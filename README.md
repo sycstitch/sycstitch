@@ -28,7 +28,7 @@ i started as a linguistics major because i'm fascinated by how people actually c
 
 ### <p>*⋆｡𖦹 ˚ 𓇼 ˚｡⋆ &emsp; specialties &emsp; ⋆｡𖦹 ˚ 𓇼 ˚｡⋆*</p>
 
-`backend & systems thinking`
+`backend & system engineering`
 
 i love breaking things down and understanding how they work at the deepest level. there's something satisfying about tracing data to a pattern even when it seems complex at first glance. it's the same reason i love deconstructing creole syntax ♡
 
@@ -36,7 +36,7 @@ i love breaking things down and understanding how they work at the deepest level
 
 i'm build for different platforms based on how people will actually use them, mostly web and a soft spot for android. 
 
-`ux/ui with empathy`
+`ux/ui`
 
 my design philosophy is heavily intertwined with linguistics. accessibility and efficiency on the backend; cultural sensitivity and inclusive design on the frontend. i'm new to design, but the empathy and passion to learn are real. i believe good design means understanding how *different* people use things.
 
