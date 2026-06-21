@@ -50,7 +50,7 @@ my design philosophy is heavily intertwined with linguistics. accessibility and 
 
 | category | technologies |
 | :--- | :--- |
-| **web & mobile** | `javascript` `html5/css3` `react` `android (kotlin)` `firebase` `docker` `git` |
+| **web & mobile** | `javascript` `html5/css3` `react` `flutter` `firebase` `docker` `git` |
 | **backend & data** | `python (pandas, numpy)` `sql (mysql, postgresql)` `etl pipelines` `google gemini api` `mistral-7b` `rag architecture` |
 | **design & ux** | accessibility standards (wcag), cultural localization, ui/ux design thinking, empathy-driven development |
 | **infrastructure & devops** | `bash` `powershell` `linux (debian)` `aws (ec2, lambda, s3, rds)` `github actions` `ci/cd` |
